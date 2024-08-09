@@ -147,6 +147,7 @@ class GuidanceViewModel @Inject constructor(
     }
 
     private companion object {
+
         const val SIMULATION_SPEED_STEP = 5.0
     }
 }
